@@ -1,0 +1,28 @@
+
+.top-actions {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1rem;
+  }
+  
+  .btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+.table-container{
+    max-width: 90%;
+    margin: 20px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
